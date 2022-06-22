@@ -49,16 +49,21 @@ owasp10 içerisinde ki tabloları görelim;
   bizim ilgilendiğimiz kısım bu SQL kodu. Bunun mesela password kısmına kendi passwordumuzu ve AND 1=1#' yazıp yani AND kısmından sonra doğru olacak bir logic yazıp (resimde görülen kırmızı ile altı çizili kısım), bunu alıp kopyayalıp şifre kısmına girip bu şekilde giriş yaptığımızda eğer çalışıyorsa bu şu demek oluyor; biz şifremizle birlikte aslında SQL kodu da yazarak çalıştırabiliyoruz, işte bu ve bunun gibi form göndererek sql kodu çalıştırma yöntemine SQL Injection deniyor. SQL Injection için genelde AND ve sonrasında istediğimiz bir kod ve en sonunda da # koymamız yani # işareti ile kapatmamız gerekir. Resimde işaretli kısımda ki örnekte olduğu gibi biz bu durumda password kısmına hem şifremizi hem de çalıştıracağımız kodu yapıştırıyoruz, bu örnekte olan durumda password kısmına şunu yapıştırmamız gerek;  111111' AND 1=1#
   
   Eğer şifreyi bu şekilde “111111' AND 1=1#” girdiğimizde giriş yapılıyorsa demek ki SQL kodu çalışıyor. Şimdi bunu admin kullanıcısı olarak deneyelim;
+  
   ![resim](https://user-images.githubusercontent.com/18248422/175048332-d05ed668-627e-4b02-a6fb-1725523c71a0.png)
 
   
   
   name için admin, şifre için bu sefer AND değil OR kullandık çünkü şifre ‘1’ ise VEYA (OR) 1=1 doğru ise giriş yap demiş olduk. E 1=1 doğru olduğuna göre bu şekilde ki bir SQL injection doğru kabul edeceği için admin şifresini bilmemize bile gerek kalmadan girmiş olduk. username için ya da bu örnekte olduğu gibi Name için admin girmeyi unutmuyoruz ki admin olarak giriş yapabilelim. Şifre kısmına tam olarak resimde de mavi şekilde seçili olan kısım  “1' OR 1=1#" (çift tırnaklar hariç) bu şekilde girdik. Yani password isimli değişkenin içini atıyoruz. 
-  password='içi' →  mavi şekilde seçili kısmı yukarıda ki forma bulunan password kısmına yyaz ![resim](https://user-images.githubusercontent.com/18248422/175048446-93a3d097-4682-4db0-9890-84bb4e1d58d6.png)
-![resim](https://user-images.githubusercontent.com/18248422/175048468-7eff3372-9edc-488b-b5be-a9581bd0066f.png)
+  password='içi' →  mavi şekilde seçili kısmı yukarıda ki forma bulunan password kısmına yaz 
+  
+ ![resim](https://user-images.githubusercontent.com/18248422/175048446-93a3d097-4682-4db0-9890-84bb4e1d58d6.png)
+  
+ ![resim](https://user-images.githubusercontent.com/18248422/175048468-7eff3372-9edc-488b-b5be-a9581bd0066f.png)
 
   Benzer olarak birde bu yöntem var. Burda öncekinden farklı olarak sadece “admin” username yani kullanıcı adı için sonuna # işareti koyduk. Bu şu demek oluyor, # bu işaretten sonra ki kodların hiç bir önemi yok! Eğer “admin” isimli bir kullanıcı varsa şifresinin ne olduğundan bağımsız (resimde ki altı çizili ve 2 yazan kısımda ki şifrenin hiç bir önemi yok öylesine yazıldı) olarak bu SQL injection'ı admin kullanıcısı için yap ve sisteme gir!
-![resim](https://user-images.githubusercontent.com/18248422/175048515-2028b9a8-8890-46c4-8176-69f02f474ce4.png)
+ 
+ ![resim](https://user-images.githubusercontent.com/18248422/175048515-2028b9a8-8890-46c4-8176-69f02f474ce4.png)
   
   Name kısmına girip admin'# (' işaretini koymayı da unutma) yazıp şifre kısmına ne yazarsak yazalım artık admin olarak Login olabiliriz.
   
@@ -80,7 +85,7 @@ owasp10 içerisinde ki tabloları görelim;
 
   şimdi bu adreste olan username kısmında ki “aaa” diye girdiğimiz kısmın sonuna ' ve # işaretlerini koyalım (önceki örnekte olduğu gibi) ve bu şekilde Name kısmına yapıştıralım yani tam olarak şu şekilde aaa'#
 
-![resim](https://user-images.githubusercontent.com/18248422/175048672-fefc9567-5069-4fc2-a7a0-4786d06e08f2.png)
+ ![resim](https://user-images.githubusercontent.com/18248422/175048672-fefc9567-5069-4fc2-a7a0-4786d06e08f2.png)
 
  şimdi bu değişen kısmı URL yapıştırıp çalıştıralım. 
 
@@ -89,9 +94,11 @@ owasp10 içerisinde ki tabloları görelim;
  Aslında burada ki yanlış şuydu;
  
   biz URL kısmına # koyduğumuzda HTML koduna çevrilmedi, biz # kısmının HTML koduna çevrilmesi için # yerine %23 yazmalıyız.
-![resim](https://user-images.githubusercontent.com/18248422/175048758-0b8cac4b-ca18-456a-ba49-f90f2c3ab316.png)
+  
+  ![resim](https://user-images.githubusercontent.com/18248422/175048758-0b8cac4b-ca18-456a-ba49-f90f2c3ab316.png)
 
-  yani bu şekilde # yerine %23 yazdık. Şimdi bu haliyle çalıştırmadan önce “aaa” gibi büyük ihtimalle sistemde bulunmayan bir username yerine admin yazarak URL kısmına yapıştıracağımız linki son haline getirelim. 
+  yani bu şekilde # yerine %23 yazdık. Şimdi bu haliyle çalıştırmadan önce “aaa” gibi büyük ihtimalle sistemde bulunmayan bir username yerine admin yazarak URL kısmına yapıştıracağımız linki son haline getirelim.
+  
   ![resim](https://user-images.githubusercontent.com/18248422/175048786-1690a618-7e6f-4e62-8c88-7ce7f9ad7c99.png)
 
   şimdi kullanıcı adını da “admin” olarak değiştirdiğimize göre artık URL kısmına bunu yapıştırıp çalıştıralım.
