@@ -11,5 +11,5 @@
 
 [SQL Injection](2022/04/14/SQL-Injection.html)
 
-[SQL Injection ](2022/04/15/SQL-Injection-2.html)
+[SQL Injection 2](2022/04/15/SQL-Injection-2.html)
 
