@@ -43,6 +43,8 @@ varying=değişen
 
 ![resim](https://user-images.githubusercontent.com/18248422/175014827-12d8ede4-77f3-49bd-9e56-6f20fa4f030b.png)
 
+
+
  
  
 
