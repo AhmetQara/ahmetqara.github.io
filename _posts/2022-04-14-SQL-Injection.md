@@ -122,6 +122,7 @@ owasp10 içerisinde ki tabloları görelim;
   username kısmına yazdığıma dikkat et, olmayan bir kullanıcı yazdığımız halde çalışacak.
   
   Sonuç;
+  
   ![resim](https://user-images.githubusercontent.com/18248422/175048986-5860e88d-11dc-469b-bc45-e1f9eedc645e.png)
 
   sonuç bu. Admin de dahil bütün kullanıcıların bilgilerini aldık. Hem de şifreyi bırak, login olmadan, sistemde ki tek bir kullanıcı adını bile bilmeden.
