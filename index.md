@@ -1,6 +1,3 @@
-## Posts
-
-
 {% for tag in site.tags %}
   <h1>{{ Posts }}</h1>
   <ul>
