@@ -1,7 +1,7 @@
 
 ![resim](https://user-images.githubusercontent.com/18248422/175042903-d4c38166-dd6d-4ce5-ae28-71904fc1ad94.png)
 
-Bağlantı (hack) sonrası yapılacaklar
+## Bağlantı (hack) sonrası yapılacaklar
 
 ### Migrate (işlem göçü)
 
