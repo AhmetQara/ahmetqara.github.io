@@ -9,24 +9,29 @@ Sql Injection'a geçmeden önce biraz sql kodları üzerinde örneklere bakalım
 
  Bu komut ile virtualBox da açtığımız metasploitable makinasına linux üzerinden sql database e erişiyoruz. Normalde bu komuttan sonra şifre istemesi lazım fakat bu makinada bilerek bu kısmı açık ve şifresiz bırakmışlar. 
  Bu komuttan sonra artık metasploitable makinasının data base'ine eriştik;
+ 
 ![resim](https://user-images.githubusercontent.com/18248422/175047377-5c35ec6a-2d0e-4857-ab4a-d82ada94a04f.png)
 
 Şimdi “show databases;” komutu ile içerde olan veri tabanı tablolarını görelim;
+
 ![resim](https://user-images.githubusercontent.com/18248422/175047413-bc40d62d-67be-4b44-b64a-11d10720d61d.png)
 
 işte bunlar bu makinada bulunan database'ler.
 
 Bunlardan mesela “owasp10” database'ini seçelim;
+
 ![resim](https://user-images.githubusercontent.com/18248422/175047488-554430af-5ea6-4dfd-bccc-1ff003b96c66.png)
 
 "use owasp10" komutu ile mysql database'ine geçiş yaptık. use <database_name>
 
 owasp10 içerisinde ki tabloları görelim;
+
 ![resim](https://user-images.githubusercontent.com/18248422/175047550-f44483fe-d4ef-4429-bb7f-3a9e254adeec.png)
 
 "show tables;" komutu ile tabloları görebildik.
 
 Şimdi bir tablo seçip onun içine bakalım;
+
 ![resim](https://user-images.githubusercontent.com/18248422/175047608-f0db1f87-bbb9-4d2d-9375-207c4a210b0d.png)
 
 "credit_cards" tablosunda ki bütün bilgileri “select * from credit_cards” komutunu girerek listeledik.
