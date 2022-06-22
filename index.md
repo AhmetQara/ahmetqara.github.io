@@ -1,8 +1,12 @@
 
-[a relative link](2022/04/11/The-Hacker-Methodology.html)
+# Posts
 
-[a relative link](2022-04-12-Intro-to-Offensive-Security.md)
+[The Hacker Methodology](2022/04/11/The-Hacker-Methodology.html)
 
-[a relative link](2022-04-12-Offensive-Pentesting.md)
+[Intro to Offensive Security](2022/04/12/Intro-to-Offensive-Security.html)
 
-[a relative link](2022-04-13-Metasploit.md)
+[Offensive Pentesting](2022/04/12/Offensive-Pentesting.html)
+
+[Metasploit](2022/04/13/Metasploit.html)
+
+[SQL Injection](2022/04/14/SQL-Injection.html)
