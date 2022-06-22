@@ -6,3 +6,5 @@
     {% endfor %}
   </ul>
 {% endfor %}
+
+[Blog - All in One](https://ahmetqara.github.io/blog/index.html)
