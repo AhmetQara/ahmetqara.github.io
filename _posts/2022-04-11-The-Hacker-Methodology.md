@@ -1,7 +1,3 @@
-##The Hacker Methodology
-
-###Methodology Outline
-
 source: https://tryhackme.com/room/hackermethodology
 
 ![resim](https://user-images.githubusercontent.com/18248422/175014425-1072580f-e3a0-4bd9-bb22-89438fe98ae4.png)
