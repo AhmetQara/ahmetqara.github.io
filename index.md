@@ -9,10 +9,15 @@
 
 [Blog - All in One](https://ahmetqara.github.io/blog/index.html)
 
-[GitHub Profile -->](https://github.com/AhmetQara)
 
-[Linkedin Profile --->](https://www.linkedin.com/in/ahmet-kara-8a64211a6/)
+- 👋 Hi, I’m @ahmetQara
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning Penetration Testing for CyberSecurity
+- 📫 Contact mail ahmetkarajobs@gmail.com
+- ✍️ My Blog https://ahmetqara.github.io/
+- ‍💼 Linkedin https://www.linkedin.com/in/ahmet-kara-8a64211a6/
+- 🤵 My latest Resume https://github.com/ahmetQara/Resume/blob/main/AHMET_KARA_CV.pdf
+- 🐱‍💻 TryHackMe https://tryhackme.com/p/AhmetKara
+- 🏆 HackerRank https://www.hackerrank.com/ahmetkara2022
 
-[CV - Resume --->](https://github.com/AhmetQara/Resume)
-
-[E-mail: ](ahmetkarajob@gmail.com)
+[GitHub Profile](https://github.com/AhmetQara)
