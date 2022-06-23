@@ -1,3 +1,4 @@
+## creted by @[ahmetkara](https://github.com/ahmetQara)
 
 ## SQL Injection
 
@@ -191,3 +192,5 @@ owasp10 database'inde bulunan tabloları sıralamak için bu şekilde yazabiliri
  
  Bu kısımda öğrendiklerimizin hepsi işin arka planını anlamak içindi. Mantığını anladığımıza göre, bütün bu manuel olarak yaptığımız işleri bizim için site üzerinde (URL vererek) tarama yapıp, SQL Injection yapabileceğimiz bir açık var mı? Varsa database i görmemizi, içeriğini incelememizi vs sağlayan, bütün bunları otomatik olarak yapan bir framework var; SQL Map 
  
+ ## creted by @[ahmetkara](https://github.com/ahmetQara)
+
