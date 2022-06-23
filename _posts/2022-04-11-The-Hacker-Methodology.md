@@ -1,3 +1,5 @@
+## creted by @[ahmetkara](https://github.com/ahmetQara)
+
 Source: https://tryhackme.com/room/hackermethodology
 
 ![resim](https://user-images.githubusercontent.com/18248422/175014425-1072580f-e3a0-4bd9-bb22-89438fe98ae4.png)
@@ -38,6 +40,9 @@ involved=dahil olmuş
 varying=değişen
 
 ![resim](https://user-images.githubusercontent.com/18248422/175014827-12d8ede4-77f3-49bd-9e56-6f20fa4f030b.png)
+
+## creted by @[ahmetkara](https://github.com/ahmetQara)
+
 
 
 
