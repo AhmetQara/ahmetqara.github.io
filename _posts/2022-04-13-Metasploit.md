@@ -1,3 +1,4 @@
+## creted by @[ahmetkara](https://github.com/ahmetQara)
 
 ![resim](https://user-images.githubusercontent.com/18248422/175042903-d4c38166-dd6d-4ce5-ae28-71904fc1ad94.png)
 
@@ -86,8 +87,7 @@ Keylogger yani klavyeden girilen değerleri dinlemek için aşağıda ki komutu 
   ![resim](https://user-images.githubusercontent.com/18248422/175043959-4fc27dcc-7210-403a-9519-dbdd117b98ca.png)
   ![resim](https://user-images.githubusercontent.com/18248422/175043986-c0f65737-8802-4695-807c-b49e2290678e.png)
 
-
-
+## creted by @[ahmetkara](https://github.com/ahmetQara)
 
 
   
