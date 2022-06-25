@@ -1,5 +1,3 @@
-## creted by @[ahmetkara](https://github.com/ahmetQara)
-
 ## SQL Injection
 
 Sql Injection'a geçmeden önce biraz sql kodları üzerinde örneklere bakalım;
