@@ -1,8 +1,7 @@
-## creted by @[ahmetkara](https://github.com/ahmetQara)
 
-Source: https://tryhackme.com/room/sqlinjectionlm
- 
  ## SQL-Injection-2
+ 
+ Source: https://tryhackme.com/room/sqlinjectionlm
  
 ![resim](https://user-images.githubusercontent.com/18248422/175052030-bd0b075e-13e5-4be0-9119-13b34d0a54e7.png)
 ![resim](https://user-images.githubusercontent.com/18248422/175052047-d1676186-b64e-47ad-8b40-a454b5836a9d.png)
