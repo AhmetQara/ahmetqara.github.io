@@ -1,4 +1,5 @@
-## creted by @[ahmetkara](https://github.com/ahmetQara)
+
+## The Hacker Methodology
 
 Source: https://tryhackme.com/room/hackermethodology
 
