@@ -1,3 +1,4 @@
+
 ## SQL Injection
 
 Sql Injection'a geçmeden önce biraz sql kodları üzerinde örneklere bakalım;
