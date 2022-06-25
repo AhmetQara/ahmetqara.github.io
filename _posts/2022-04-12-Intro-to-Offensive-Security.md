@@ -1,4 +1,3 @@
-## creted by @[ahmetkara](https://github.com/ahmetQara)
 
 ## Intro to Offensive Security
 
