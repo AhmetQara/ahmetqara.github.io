@@ -1,5 +1,5 @@
 
- ## Deauthentication Attack (yetkisizlendirme atağı)
+ ## Deauthentication Attack
  
  ![resim](https://user-images.githubusercontent.com/18248422/175813642-e7cc6bd0-048f-4969-83b8-63e4c8b852bc.png)
 
