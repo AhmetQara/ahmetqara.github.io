@@ -1,6 +1,6 @@
 
 
-## Man In The Middle Attack (Mitm)
+## Man In The Middle Attack
 
 ![resim](https://user-images.githubusercontent.com/18248422/176667863-f5ba04f5-7334-49a9-9f17-0aaea41b265a.png)
 ![resim](https://user-images.githubusercontent.com/18248422/176667877-7602ba31-27c1-4079-83c5-4ba4e7447104.png)
