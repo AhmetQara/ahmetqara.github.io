@@ -1,4 +1,4 @@
- ##Reverse Shell
+ ## Reverse Shell
  
   Reverse shell yani tersten shell açmak, komut çalıştırabildiğimiz bir sunucudan kendi cihazımıza bir bağlantı açmamıza olanak sağlar. Backdoor mantığına benzerdir ama tam olarak aynı değil. Backdoor da karşıda bir kullanıcının bir .exe veya bir dosya çalıştırması, bir siteye vs. girmesi bi şeylere tıklaması gerekirken, reverse shell de biz kendimiz kod çalıştırabileceğimiz bir açık bulduğumuzda o zaafiyetten faydalanıp kendimize bağlantı yaptırarak içeriye daha kolay sızabilmek için açık bir kapı bırakmış oluyoruz. 
  
