@@ -1,5 +1,7 @@
 
-## Submit Form
+## Form Attacks
+
+### Submit Form
 
  Form ile saldırı;
  
@@ -41,7 +43,7 @@
  
  ![resim](https://user-images.githubusercontent.com/18248422/179508086-8760d472-1ed1-47ce-bcc8-7fbaaf7c63a5.png)
  
- ## Upload Form
+ ### Upload Form
  
  ![resim](https://user-images.githubusercontent.com/18248422/179508138-475d51e6-ad3c-4726-a323-b46fa01af968.png)
  
@@ -85,7 +87,7 @@ bu tarz upload edebileceğimiz kısımlara kendi backdoor trojanımızı yüklem
   
  ![resim](https://user-images.githubusercontent.com/18248422/179508381-b3fba26d-41bc-4565-9ec7-fab0891ff638.png)
 
-  ## XSS
+  ### XSS
   
   ![resim](https://user-images.githubusercontent.com/18248422/179508426-1b8e1ae9-709a-4617-8699-5f0e23613a32.png)
   
