@@ -58,10 +58,7 @@ Türkçe (DNS Zone)
 ![resim](https://user-images.githubusercontent.com/18248422/175767253-141e8463-70ac-4c5a-8a5f-4e539e184f84.png)
 ![resim](https://user-images.githubusercontent.com/18248422/175767257-fea147c4-8547-44a4-858c-fdc6a54606db.png)
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
-
-  
-  
+## created by [@ahmetkara](https://github.com/ahmetQara)
   
   
   
