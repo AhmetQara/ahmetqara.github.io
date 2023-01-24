@@ -22,4 +22,4 @@ Bu atak kendimizi seçeceğimiz hedef bir ağa sanki bağlanmışız gibi göste
 
  bu şekilde yine aireplay-ng ile “--arpreplay -b <hedef MAC> -h <kendi MAC adresimiz> wlan0mon” komutu ile o ağda örneğin WEP algoritmasını kullanan bir ağ ise bu algoritmada ağ içinde paket alışverişi esnasında üretilen “IV-PASSWORD” şeklinde ki “IV” kısmını okuyabilir hale gelir ve de bu “IV” kısmı bi süre sonra tekrar eden algoritmalar oldukları için aircrack-ng yöntemiyle kolayca “PASSWORD” kısmına erişip şifreyi kırabiliriz.
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
+## created by [@ahmetkara](https://github.com/ahmetQara)
