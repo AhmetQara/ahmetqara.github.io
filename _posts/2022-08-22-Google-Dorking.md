@@ -26,3 +26,5 @@
 ![resim](https://user-images.githubusercontent.com/18248422/195326143-fe0cc645-0c3e-478c-b784-83d5f67edc1a.png)
 ![resim](https://user-images.githubusercontent.com/18248422/195326203-bc2fe168-8dd1-4dca-a0b4-742e75a9c74d.png)
 ![resim](https://user-images.githubusercontent.com/18248422/195326213-feebbe55-e706-4b34-ab0c-18f453b6484f.png)
+
+## created by [@ahmetkara](https://github.com/ahmetQara)
