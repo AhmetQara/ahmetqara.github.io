@@ -147,8 +147,5 @@ bash version <4.2-048 ise;
 
 ![resim](https://user-images.githubusercontent.com/18248422/180614079-9a265967-67a8-44d1-8c94-745ffe9e7c1e.png)
 
-
-## creted by [@ahmetkara](https://github.com/ahmetQara)
-
-
+## created by [@ahmetkara](https://github.com/ahmetQara)
 
