@@ -25,4 +25,4 @@ bu şekilde bir wordlist dosyası oluşturduktan sonra aşağıda ki şekilde bi
 
 elimizde ki .cap dosyası ile wordlist'i karşılaştırıp şifreyi kırmaya çalışacağız.
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
+## created by [@ahmetkara](https://github.com/ahmetQara)
