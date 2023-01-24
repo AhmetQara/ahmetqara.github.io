@@ -93,6 +93,6 @@ bu tarz upload edebileceğimiz kısımlara kendi backdoor trojanımızı yüklem
   
   örneğin bir websitesinde bu şekilde bir mesaj gönderme kısmı varsa, mesaj kısmında bu örnekte olduğu gibi beef açıp, mesaj kısmında hook.js scriptini yazıp mesajı göndererek çalıştırıp, websitesini ziyaret edenleri hackleyebiliriz.
  
-  ## creted by [@ahmetkara](https://github.com/ahmetQara)
+## created by [@ahmetkara](https://github.com/ahmetQara)
 
  
