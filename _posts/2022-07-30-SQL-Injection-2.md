@@ -14,5 +14,4 @@
 ![resim](https://user-images.githubusercontent.com/18248422/175052121-a8640591-18f7-4f0c-9a8b-6757465abf5c.png)
 ![resim](https://user-images.githubusercontent.com/18248422/175052143-330b8428-788f-466d-ae60-9b86ce6ec6c1.png)
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
-
+## created by [@ahmetkara](https://github.com/ahmetQara)
