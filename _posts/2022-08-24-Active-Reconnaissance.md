@@ -35,3 +35,5 @@ source: https://null-byte.wonderhowto.com/how-to/exploit-eternalblue-windows-ser
 ![resim](https://user-images.githubusercontent.com/18248422/195328684-5475b9dc-1b26-487f-8eb3-b390316ca843.png)
 ![resim](https://user-images.githubusercontent.com/18248422/195328701-a86aa313-d193-4dc5-b4df-bdb9adbbc8fc.png)
 ![resim](https://user-images.githubusercontent.com/18248422/195328709-5a336618-9725-41cc-b59c-cecd43ddab63.png)
+
+## created by [@ahmetkara](https://github.com/ahmetQara)
