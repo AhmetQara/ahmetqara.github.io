@@ -18,5 +18,4 @@ analyze email headers: https://mediatemple.net/community/products/all/204643950/
 
 ![resim](https://user-images.githubusercontent.com/18248422/180803121-01f27385-ef0f-489a-898c-5cee319fc6c4.png)
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
-
+## created by [@ahmetkara](https://github.com/ahmetQara)
