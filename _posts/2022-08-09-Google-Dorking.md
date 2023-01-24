@@ -28,6 +28,4 @@ source: https://tryhackme.com/room/googledorking
 ![resim](https://user-images.githubusercontent.com/18248422/183237882-da7b8e5c-3591-468f-8388-a4cc6cef38c6.png)
 ![resim](https://user-images.githubusercontent.com/18248422/183237885-64c2ba87-cad9-4d0f-bbe5-0b1b6d34bc4f.png)
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
-
-
+## created by [@ahmetkara](https://github.com/ahmetQara)
