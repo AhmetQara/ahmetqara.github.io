@@ -7,8 +7,7 @@
 ![resim](https://user-images.githubusercontent.com/18248422/179830683-f63e9f93-9c63-4561-b696-cc2052f284e1.png)
 ![resim](https://user-images.githubusercontent.com/18248422/179830694-ade5e14c-29b3-4e3f-8178-303a9760bac6.png)
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
-
+## created by [@ahmetkara](https://github.com/ahmetQara)
 
 
 
