@@ -46,5 +46,5 @@ Böylelikle modemin ip'si olan “10.0.0.1” in mac adresini kendi mac adresimi
     
 Hedef cihaz modemi bizim verdiğimiz mac adresinde sanıyor, böylelikle arp saldırısı başarıya ulaştı.
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
+## created by [@ahmetkara](https://github.com/ahmetQara)
 
