@@ -37,5 +37,4 @@ source: https://tryhackme.com/room/introtoresearch
 
 ![resim](https://user-images.githubusercontent.com/18248422/181863211-4d82db60-881c-4184-94e7-d6db8639a6e6.png)
 
-## creted by [@ahmetkara](https://github.com/ahmetQara)
-
+## created by [@ahmetkara](https://github.com/ahmetQara)
