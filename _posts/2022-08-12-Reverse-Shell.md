@@ -30,4 +30,4 @@
  
  ![resim](https://user-images.githubusercontent.com/18248422/179301770-a64fca42-43af-4794-8b9e-e2c75ef1feea.png)
 
- ## creted by [@ahmetkara](https://github.com/ahmetQara)
+## created by [@ahmetkara](https://github.com/ahmetQara)
