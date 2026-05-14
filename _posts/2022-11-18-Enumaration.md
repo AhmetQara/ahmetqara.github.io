@@ -1,4 +1,4 @@
-## Enumaration
+## Enumeration
 
 ![resim](https://user-images.githubusercontent.com/18248422/202848764-a58e1dcd-71ba-435b-a85e-fe0cdfe8c242.png)
 ![resim](https://user-images.githubusercontent.com/18248422/202848765-4ebf3273-feca-4f75-93cc-c462a1a0b61b.png)
